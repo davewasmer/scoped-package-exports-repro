@@ -1,0 +1,7 @@
+{
+  "name": "@scoped/app",
+  "dependencies": {
+    "shared": "workspace:*",
+    "@scoped/shared": "workspace:*"
+  }
+}

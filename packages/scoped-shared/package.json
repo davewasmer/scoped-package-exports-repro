@@ -1,0 +1,6 @@
+{
+  "name": "@scoped/shared",
+  "exports": {
+    ".": "./src/index.ts"
+  }
+}
